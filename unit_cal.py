@@ -3,8 +3,7 @@ from tkinter import messagebox
 from tkinter import filedialog
 import tkinter.ttk
 import pandas as pd
-import numpy as np
-import matplotlib
+
 
 rt_width=1000
 rt_hgt=1000
