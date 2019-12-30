@@ -9,6 +9,8 @@ import pandas as pd
 rt_width=1000
 rt_hgt=1000
 
+ts=4
+
 global root
 previous_count = '0'
 
